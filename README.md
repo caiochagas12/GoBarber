@@ -1,3 +1,3 @@
 <p align="center">
-  <img alt="SignIn" src="/SignIn.png" width="100%">
+  <img alt="SignIn" src="/SignIn.jpg" width="100%">
 </p>
