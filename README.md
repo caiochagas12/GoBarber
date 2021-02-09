@@ -1,2 +1,3 @@
-# GoBarber
-React Web Application for a generic Barber Shop just for practice.
+<p align="center">
+  <img alt="SignIn" src="/SignIn.png" width="100%">
+</p>
